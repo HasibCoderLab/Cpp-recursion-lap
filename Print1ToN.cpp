@@ -17,7 +17,7 @@ int main(){
   int n;
   cout<<"Enter Number " ;
   cin>>n;
-  printN(n);
+ cout<< printN(n);
   cout<<endl;
     return 0;
 }
