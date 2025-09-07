@@ -2,7 +2,7 @@
 //               Language: C++ / Cpp
 //               Topic   : [Recursion]
 //               Problem : 👉👉 [1]
-//               Want    : FunctoinCallingItSelf                     
+//               Want    :Print1ToN 2.0              
 // ================================================
 #include <iostream>
 using namespace std;
@@ -12,6 +12,3 @@ int main(){
     cin>> n;
     return 0 ;
 }
-
-
- git commit -m"solve 1st problem of 'Recursion'in C++"  
